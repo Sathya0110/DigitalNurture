@@ -10,7 +10,7 @@ public class DemoMain implements CommandLineRunner{
     private studentService service;
     @Override
     public void run(String... args){
-        service.addStudent("Garnet", 21);
+        service.addStudent("Sathya", 21);
     }
 
 }
