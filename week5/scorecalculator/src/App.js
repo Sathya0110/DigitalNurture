@@ -2,7 +2,7 @@ import CalculateScore from '../src/Components/CalculateScore';
 function App(){
 return (
 <div>
-<CalculateScore name = {"Garnet"} school = {"VIKASA"} total = {1000} goal = {25} />
+<CalculateScore name = {"Sathya"} school = {"SRIPS"} total = {1000} goal = {25} />
 </div>
 );
 }
